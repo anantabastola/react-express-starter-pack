@@ -14,7 +14,7 @@
 
 ### Installation
 ```
-git clone https://github.com/anantabastola/react-express-starter-pack
+git clone https://github.com/anantabastola/react-express-starter-pack.git
 cd react-express-starter-pack
 npm install
 ```
@@ -27,4 +27,4 @@ Start CLient Only => npm run client
 Start Both @ Same Time => npm run project
 ```
 ## Thanks To:
-Facebook[create-react-app](https://github.com/facebook/create-react-app)
+Facebook [create-react-app](https://github.com/facebook/create-react-app)
