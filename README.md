@@ -1,6 +1,6 @@
-#>react-express-starter-pack
+#react-express-starter-pack
 <hr>
-#>ScreenShots
+#ScreenShots
 
 ![Picture](http://anantabastola.com.np/wp-content/uploads/2018/07/UI.png)
 <hr>
