@@ -27,7 +27,7 @@ export default class Customers extends Component {
           <h2>Customers</h2>
           <ul>
             {this.state.customers.map(customer => 
-            <li key={customer.id}>{customer.firstName+""+customer.lastName}</li>
+            <li key={customer.id}>{customer.firstName+" "+customer.lastName}</li>
             )}
           </ul>
           {/* <h3>{JSON.stringify(this.state.customers)}</h3> */}

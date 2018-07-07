@@ -6,23 +6,23 @@ app.get('/api/customers', (req, res)=> {
     const customers = [
         { 
             id: 1,
-            firstName: 'John',
-            lastName: 'Doe',
+            firstName: 'Node',
+            lastName: 'Rockstar',
         },
         {
             id: 2,
-            firstName: 'Rocky',
-            lastName: 'Stakes',
+            firstName: 'JS',
+            lastName: 'Killer',
         },
         {
             id: 3,
-            firstName: 'Pineapple',
-            lastName: 'Rocker',
+            firstName: 'Python',
+            lastName: 'Bot',
         },
         {
             id: 4,
-            firstName: 'JS',
-            lastName: 'Rockstar',
+            firstName: 'PHP',
+            lastName: 'Oldman',
         },
     ]
     res.send(customers);
