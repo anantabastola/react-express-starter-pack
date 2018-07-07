@@ -1,0 +1,30 @@
+{
+  "name": "react-express-starter-pack",
+  "version": "1.0.0",
+  "description": "React Express Starter Pack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantabastola/react-express-starter-pack.git"
+  },
+  "keywords": [
+    "React",
+    "Express",
+    "BoilerPlate",
+    "Starter",
+    "Pack",
+    "React",
+    "Node",
+    "Starter",
+    "Pack"
+  ],
+  "author": "Ananta Bastola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anantabastola/react-express-starter-pack/issues"
+  },
+  "homepage": "https://github.com/anantabastola/react-express-starter-pack#readme"
+}
