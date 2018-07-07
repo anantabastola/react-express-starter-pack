@@ -2,7 +2,6 @@
 <hr>
 
 ## ScreenShots
-<hr>
 
 ### React Interface
 ![Picture](http://anantabastola.com.np/wp-content/uploads/2018/07/UI.png)
